@@ -1,8 +1,13 @@
-# segmentfault-lession
-Segment Fault 在线讲堂 代码工程
+Segment Fault 在线讲堂 代码工程 
+=====================================
 
 
-## Java 微服务实践 - Spring Boot 系列
+
+# [Java 微服务实战系列课堂](https://segmentfault.com/n/1330000009887617)
+
+
+
+## Java 微服务实践 - Spring Boot 系列 （[一键报名，更优惠！](https://segmentfault.com/ls/1650000011063780)）
 
 
 
@@ -165,7 +170,7 @@ Segment Fault 在线讲堂 代码工程
     
     
 
-### [第十六节 日志](https://segmentfault.com/l/1500000009978585)
+### [第十六节 日志](https://segmentfault.com/l/1500000009978585) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-16)) [[问答](https://segmentfault.com/l/1500000009978585/d/1560000010867242)]
 
 * 主要内容
 
@@ -176,7 +181,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十七节 监管](https://segmentfault.com/l/1500000009978661)
+### [第十七节 监管](https://segmentfault.com/l/1500000009978661) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-17)) [[问答](https://segmentfault.com/l/1500000009978661/d/1560000010933454)]
 
 * 主要内容
 
@@ -187,7 +192,7 @@ Segment Fault 在线讲堂 代码工程
     
 
 
-### [第十八节 配置](https://segmentfault.com/l/1500000009978661)
+### [第十八节 配置](https://segmentfault.com/l/1500000009978661) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-18)) [[问答](https://segmentfault.com/l/1500000009978729/d/1560000011093017)]
 
 * 主要内容
 
@@ -198,7 +203,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十九节 测试](https://segmentfault.com/l/1500000009978826)
+### [第十九节 测试](https://segmentfault.com/l/1500000009978826) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-19)) [[问答](https://segmentfault.com/l/1500000009978826/d/1560000011154349)]
 
 * 主要内容
 	
@@ -209,7 +214,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904)
+### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-20)) [[问答](https://segmentfault.com/l/1500000009978904/d/1560000011202690)]
 
 * 主要内容
 
@@ -222,7 +227,7 @@ Segment Fault 在线讲堂 代码工程
 ## Java 微服务实践 - Spring Cloud 系列
 
 
-### 持续更新中，请期待
+### 10月开播，敬请期待
 
 
 
